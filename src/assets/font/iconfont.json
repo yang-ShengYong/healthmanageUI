@@ -1,0 +1,72 @@
+{
+  "id": "1841807",
+  "name": "vue project",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1165",
+      "name": "管理员",
+      "font_class": "guanliyuan",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "356464",
+      "name": "商品",
+      "font_class": "shangpin",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "435924",
+      "name": "卡路里",
+      "font_class": "qialuli",
+      "unicode": "e7b4",
+      "unicode_decimal": 59316
+    },
+    {
+      "icon_id": "436018",
+      "name": "运动",
+      "font_class": "yundong",
+      "unicode": "e807",
+      "unicode_decimal": 59399
+    },
+    {
+      "icon_id": "1120971",
+      "name": "密码",
+      "font_class": "mima",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "1177735",
+      "name": "书",
+      "font_class": "shu",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "2578488",
+      "name": "登录",
+      "font_class": "denglu",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "4722201",
+      "name": "表单",
+      "font_class": "biaodan",
+      "unicode": "e663",
+      "unicode_decimal": 58979
+    },
+    {
+      "icon_id": "6489735",
+      "name": "食物",
+      "font_class": "shiwu",
+      "unicode": "e691",
+      "unicode_decimal": 59025
+    }
+  ]
+}
